@@ -8818,10 +8818,10 @@ mute-stream@0.0.8:
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha512-nnbWWOkoWyUsTjKrhgD0dcz22mdkSnpYqbEjIm2nhwhuxlSkpywJmBo8h0ZqJdkp73mb90SssHkN4rsRaBAfAA==
 
-muuri@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/muuri/-/muuri-0.8.0.tgz#60e84d2d322fa207efd113905eeb5d9750005a53"
-  integrity sha512-uqTi91q6mEKfHNHutlcDu3dS8/DXnxoWFh6fhUVJr426yaO4G/p2/LMoOeFb5Tl1hWzx7qoxl2v9RTJVFuskpQ==
+muuri@0.9.4:
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/muuri/-/muuri-0.9.4.tgz#d5ebeca1ea0bb2e772778d79adcc79bd8b4b6a4a"
+  integrity sha512-QNPQZ8snoGEQiZrbYu/hFa2+qYk2MxZ76pCY98u4uQ9McjyYeQkut7A3pWbPZqyVgd5h1/+MlH7qsiH2pgO/DA==
 
 nan@^2.12.1, nan@^2.13.2:
   version "2.14.1"
